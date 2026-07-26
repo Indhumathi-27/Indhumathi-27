@@ -1,77 +1,71 @@
-<!-- ========================= HEADER ========================= -->
+<!--==================== Animated Header ====================-->
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi%20👋,%20I'm%20Indhumathi&fontSize=55&fontAlignY=35&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:00C9FF,100:92FE9D&text=Hi%20👋,%20I'm%20Indhumathi&fontSize=55&fontAlignY=38&animation=twinkling"/>
 </p>
 
-<h1 align="center">💻 Java Backend Developer | 🚀 CSE Student</h1>
+<h1 align="center">🚀 Java Backend Developer</h1>
+
+<h3 align="center">
+Passionate about Java • Spring Boot • DSA • Backend Development
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=750&lines=Welcome+to+My+GitHub!;Java+Backend+Developer;Spring+Boot+Learner;Data+Structures+%26+Algorithms;React+Developer;Always+Learning+New+Technologies+🚀" />
-</p>
 
-<p align="center">
-<img width="450" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Welcome+to+My+GitHub!;Java+Backend+Developer;Spring+Boot+Enthusiast;Data+Structures+%26+Algorithms;React+Developer;Backend+Engineer+in+Progress;Always+Learning+Something+New+🚀"/>
 
-<p align="center">
-<img src="https://img.shields.io/github/followers/Indhumathi-27?style=for-the-badge&logo=github"/>
-<img src="https://img.shields.io/github/stars/Indhumathi-27?style=for-the-badge"/>
-<img src="https://komarev.com/ghpvc/?username=Indhumathi-27&style=for-the-badge&color=blue"/>
 </p>
 
 ---
 
-<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284126-7f7f8b2e-2fa6-4c58-a7a8-86a83d4c0c90.gif"/>
+<!--==================== Coding GIF ====================-->
+
+<p align="center">
+
+<img width="500" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+</p>
+
+---
+
+<!--==================== Badges ====================-->
+
+<p align="center">
+
+<img src="https://img.shields.io/github/followers/Indhumathi-27?logo=github&style=for-the-badge">
+
+<img src="https://img.shields.io/github/stars/Indhumathi-27?style=for-the-badge">
+
+<img src="https://komarev.com/ghpvc/?username=Indhumathi-27&style=for-the-badge&color=blue">
+
+</p>
+
+---
 
 # 👩‍💻 About Me
 
-🎓 Computer Science Engineering Student
+```java
+public class Indhumathi {
 
-💙 Passionate about Java Backend Development
+    String role = "Java Backend Developer";
 
-🌱 Currently Learning
+    String[] skills = {
+        "Java",
+        "Spring Boot",
+        "React",
+        "MySQL",
+        "REST API",
+        "DSA"
+    };
 
-- Java
-- Spring Boot
-- React
-- REST API
-- Data Structures & Algorithms
-- SQL
+    String goal = "Become a Software Engineer";
 
-🎯 Goal
-
-Become a Java Backend Developer and build scalable backend applications.
-
-⚡ Fun Fact
-
-I enjoy solving coding challenges and building real-world projects.
+}
+```
 
 ---
 
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/Indhumathi-27">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-
-</p>
-
----
-
-<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284087-9c9cb696-9d7b-4e0b-8db8-f1c1d6c6b4f1.gif"/>
-
-# 💻 Tech Stack
+# 🚀 Tech Stack
 
 <p align="center">
 
@@ -81,53 +75,40 @@ I enjoy solving coding challenges and building real-world projects.
 
 ---
 
-# 🚀 Featured Projects
+# 💼 Projects
 
 ## 🏥 Smart Hospital Management System
 
-✔ Patient Management
-
-✔ Appointment Scheduling
-
-✔ Doctor Management
-
-✔ Admin Dashboard
-
-✔ Java Backend + MySQL
+- Java Backend
+- MySQL Database
+- Appointment Management
+- Patient Records
 
 ---
 
 ## 🤖 Multilingual AI Voice Chatbot
 
-✔ Voice Interaction
-
-✔ AI Integration
-
-✔ Multiple Language Support
-
-✔ Hackathon Project
+- AI Chatbot
+- Voice Recognition
+- Multi-language Support
 
 ---
 
 ## 🛒 Supermarket Billing System
 
-✔ React Frontend
-
-✔ Python Backend
-
-✔ MySQL Database
+- React
+- Python
+- MySQL
 
 ---
 
-<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284103-84d2c2b0-d04e-4ebd-a8f5-0e4f7d182d4d.gif"/>
-
-# 📊 GitHub Statistics
+# 📊 GitHub Analytics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Indhumathi-27&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Indhumathi-27&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Indhumathi-27&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Indhumathi-27&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -157,17 +138,7 @@ I enjoy solving coding challenges and building real-world projects.
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Indhumathi-27&theme=algolia&row=1&column=6&margin-w=15&margin-h=15"/>
-
-</p>
-
----
-
-# 🛠 Tools
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,idea,postman,mysql"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Indhumathi-27&theme=algolia&no-frame=true&row=1&column=6"/>
 
 </p>
 
@@ -187,7 +158,17 @@ I enjoy solving coding challenges and building real-world projects.
 
 ---
 
-# 📈 GitHub Metrics
+# 🛠️ Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,idea,postman,mysql"/>
+
+</p>
+
+---
+
+# 📈 GitHub Summary
 
 <p align="center">
 
@@ -205,7 +186,7 @@ I enjoy solving coding challenges and building real-world projects.
 
 ---
 
-# 💡 Random Developer Quote
+# 💬 Quote
 
 <p align="center">
 
@@ -215,7 +196,7 @@ I enjoy solving coding challenges and building real-world projects.
 
 ---
 
-# 😂 Random Programming Joke
+# 😂 Programming Joke
 
 <p align="center">
 
@@ -225,7 +206,7 @@ I enjoy solving coding challenges and building real-world projects.
 
 ---
 
-# 👀 Visitor Count
+# 👀 Visitors
 
 <p align="center">
 
@@ -235,18 +216,36 @@ I enjoy solving coding challenges and building real-world projects.
 
 ---
 
-# 💖 Thank You
+# 🌐 Connect With Me
 
 <p align="center">
 
-⭐ Thanks for visiting my GitHub Profile!
+<a href="https://github.com/Indhumathi-27">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
 
-If you like my projects, don't forget to ⭐ them.
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
 
-Happy Coding! 🚀
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+## ⭐ Thanks for Visiting!
+
+_"Code. Learn. Build. Repeat."_
 
 </p>
 
 <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=gradient"/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:00C9FF,100:92FE9D"/>
+
 </p>
