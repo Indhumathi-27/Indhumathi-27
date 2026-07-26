@@ -1,17 +1,13 @@
-<!-- ================= HEADER ================= -->
+<!-- ========================= HEADER ========================= -->
 
 <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi,%20I'm%20Indhumathi&fontSize=55&fontAlignY=35&animation=twinkling"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi%20👋,%20I'm%20Indhumathi&fontSize=55&fontAlignY=35&animation=fadeIn"/>
 </p>
 
-<h1 align="center">👋 Welcome to My GitHub Profile</h1>
-
-<h3 align="center">
-💻 Java Backend Developer | 🚀 CSE Student | 🌱 Always Learning
-</h3>
+<h1 align="center">💻 Java Backend Developer | 🚀 CSE Student</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Java+Backend+Developer;Spring+Boot+Enthusiast;Data+Structures+%26+Algorithms;React+Developer;Building+Real+World+Projects;Always+Learning+New+Technologies🚀"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=750&lines=Welcome+to+My+GitHub!;Java+Backend+Developer;Spring+Boot+Learner;Data+Structures+%26+Algorithms;React+Developer;Always+Learning+New+Technologies+🚀" />
 </p>
 
 <p align="center">
@@ -28,28 +24,28 @@
 
 <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284126-7f7f8b2e-2fa6-4c58-a7a8-86a83d4c0c90.gif"/>
 
-# 🚀 About Me
+# 👩‍💻 About Me
 
-🎓 Computer Science Engineering Student (2027)
+🎓 Computer Science Engineering Student
 
-💻 Aspiring Java Backend Developer
+💙 Passionate about Java Backend Development
 
 🌱 Currently Learning
 
 - Java
 - Spring Boot
-- Data Structures & Algorithms
 - React
-- REST APIs
+- REST API
+- Data Structures & Algorithms
 - SQL
 
 🎯 Goal
 
-Become a skilled Software Engineer and build scalable backend applications.
+Become a Java Backend Developer and build scalable backend applications.
 
 ⚡ Fun Fact
 
-I enjoy solving coding problems and building real-world projects.
+I enjoy solving coding challenges and building real-world projects.
 
 ---
 
@@ -61,7 +57,7 @@ I enjoy solving coding problems and building real-world projects.
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+<a href="YOUR_LINKEDIN_URL">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
@@ -89,23 +85,23 @@ I enjoy solving coding problems and building real-world projects.
 
 ## 🏥 Smart Hospital Management System
 
-✔ Java Backend
-
-✔ Node.js & Express
-
-✔ MySQL Database
-
 ✔ Patient Management
 
 ✔ Appointment Scheduling
+
+✔ Doctor Management
+
+✔ Admin Dashboard
+
+✔ Java Backend + MySQL
 
 ---
 
 ## 🤖 Multilingual AI Voice Chatbot
 
-✔ AI Chatbot
-
 ✔ Voice Interaction
+
+✔ AI Integration
 
 ✔ Multiple Language Support
 
@@ -129,9 +125,9 @@ I enjoy solving coding problems and building real-world projects.
 
 <p align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Indhumathi-27&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Indhumathi-27&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Indhumathi-27&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Indhumathi-27&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -161,19 +157,17 @@ I enjoy solving coding problems and building real-world projects.
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Indhumathi-27&theme=tokyonight&no-frame=true&margin-w=15&row=1"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Indhumathi-27&theme=algolia&row=1&column=6&margin-w=15&margin-h=15"/>
 
 </p>
 
 ---
 
-<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284129-5b3bd816-4f85-4d4b-9a07-0f6b5fbba8f2.gif"/>
-
-# 🛠️ Tools
+# 🛠 Tools
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=vscode,eclipse,idea,git,github,postman,mysql"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,idea,postman,mysql"/>
 
 </p>
 
@@ -181,29 +175,37 @@ I enjoy solving coding problems and building real-world projects.
 
 # 📚 Currently Learning
 
-✨ Spring Boot
+🌱 Spring Boot
 
-✨ Advanced Java
+🌱 Advanced Java
 
-✨ DSA
+🌱 Data Structures & Algorithms
 
-✨ REST APIs
+🌱 REST APIs
 
-✨ Backend Development
+🌱 Backend Development
 
 ---
 
-# 👀 Profile Views
+# 📈 GitHub Metrics
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Indhumathi-27&style=for-the-badge&color=blue"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Indhumathi-27&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Indhumathi-27&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Indhumathi-27&theme=tokyonight"/>
 
 </p>
 
 ---
 
-# 💬 Random Developer Quote
+# 💡 Random Developer Quote
 
 <p align="center">
 
@@ -213,7 +215,7 @@ I enjoy solving coding problems and building real-world projects.
 
 ---
 
-# 😂 Programming Joke
+# 😂 Random Programming Joke
 
 <p align="center">
 
@@ -223,16 +225,28 @@ I enjoy solving coding problems and building real-world projects.
 
 ---
 
-# 💖 Thanks for Visiting
+# 👀 Visitor Count
 
 <p align="center">
 
-⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+<img src="https://komarev.com/ghpvc/?username=Indhumathi-27&style=for-the-badge&color=brightgreen"/>
+
+</p>
+
+---
+
+# 💖 Thank You
+
+<p align="center">
+
+⭐ Thanks for visiting my GitHub Profile!
+
+If you like my projects, don't forget to ⭐ them.
+
+Happy Coding! 🚀
 
 </p>
 
 <p align="center">
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=gradient"/>
-
 </p>
