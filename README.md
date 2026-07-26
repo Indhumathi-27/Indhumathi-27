@@ -69,7 +69,7 @@ public class Indhumathi {
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,python,react,nodejs,express,mysql,html,css,js,git,github,vscode,eclipse,idea,postman&perline=8"/>
+<img src="https://skillicons.dev/icons?i=java,spring,python,mysql,html,css,js,git,github,vscode,eclipse,postman&perline=8"/>
 
 </p>
 
@@ -94,13 +94,6 @@ public class Indhumathi {
 
 ---
 
-## 🛒 Supermarket Billing System
-
-- React
-- Python
-- MySQL
-
----
 
 # 📊 GitHub Analytics
 
@@ -224,11 +217,11 @@ public class Indhumathi {
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/indhumahti05/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto: indumathis860@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
