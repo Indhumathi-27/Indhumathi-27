@@ -49,7 +49,7 @@ Become a Java Backend Developer and build scalable applications.
 
 ## 💻 Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,python,react,nodejs,express,mysql,html,css,js,git,github,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,python,mysql,html,css,js,git,github,vscode)](https://skillicons.dev)
 
 ---
 
