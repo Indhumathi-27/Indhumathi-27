@@ -1,71 +1,81 @@
-<!-- Animated Header -->
+<!-- ================= HEADER ================= -->
 
 <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&text=Hi,%20I'm%20Indhumathi&fontSize=50&fontAlignY=35&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi,%20I'm%20Indhumathi&fontSize=55&fontAlignY=35&animation=twinkling"/>
 </p>
 
 <h1 align="center">👋 Welcome to My GitHub Profile</h1>
 
 <h3 align="center">
-💻 Java Backend Developer | 🚀 CSE Student | 🌱 Lifelong Learner
+💻 Java Backend Developer | 🚀 CSE Student | 🌱 Always Learning
 </h3>
 
-<!-- Typing Animation -->
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Java+Backend+Developer;Spring+Boot+Enthusiast;Data+Structures+%26+Algorithms;React+Developer;Building+Real+World+Projects;Always+Learning+New+Technologies🚀"/>
+</p>
 
 <p align="center">
+<img width="450" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Spring+Boot+Learner;DSA+Enthusiast;React+Developer;Building+Real+World+Projects;Always+Learning+New+Technologies🚀"/>
-
+<p align="center">
+<img src="https://img.shields.io/github/followers/Indhumathi-27?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/github/stars/Indhumathi-27?style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Indhumathi-27&style=for-the-badge&color=blue"/>
 </p>
 
 ---
 
-## 🌟 About Me
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284126-7f7f8b2e-2fa6-4c58-a7a8-86a83d4c0c90.gif"/>
+
+# 🚀 About Me
 
 🎓 Computer Science Engineering Student (2027)
 
-💻 Passionate about Java Backend Development
+💻 Aspiring Java Backend Developer
 
 🌱 Currently Learning
 
 - Java
 - Spring Boot
 - Data Structures & Algorithms
-- REST APIs
 - React
+- REST APIs
 - SQL
 
-🎯 Career Goal
+🎯 Goal
 
-Become a Java Backend Developer and build scalable backend applications.
+Become a skilled Software Engineer and build scalable backend applications.
 
 ⚡ Fun Fact
 
-> I enjoy solving coding problems and building real-world applications.
+I enjoy solving coding problems and building real-world projects.
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <p align="center">
 
 <a href="https://github.com/Indhumathi-27">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="YOUR_LINKEDIN_LINK">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail">
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
 </p>
 
 ---
 
-## 💻 Tech Stack
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284087-9c9cb696-9d7b-4e0b-8db8-f1c1d6c6b4f1.gif"/>
+
+# 💻 Tech Stack
 
 <p align="center">
 
@@ -75,35 +85,35 @@ Become a Java Backend Developer and build scalable backend applications.
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 🏥 Smart Hospital Management System
+## 🏥 Smart Hospital Management System
+
+✔ Java Backend
+
+✔ Node.js & Express
+
+✔ MySQL Database
 
 ✔ Patient Management
 
-✔ Doctor Management
-
 ✔ Appointment Scheduling
-
-✔ Admin Dashboard
-
-✔ Java Backend + Database
 
 ---
 
-### 🤖 Multilingual AI Voice Chatbot
+## 🤖 Multilingual AI Voice Chatbot
 
-✔ AI-powered chatbot
+✔ AI Chatbot
 
-✔ Voice interaction
+✔ Voice Interaction
 
-✔ Multiple language support
+✔ Multiple Language Support
 
 ✔ Hackathon Project
 
 ---
 
-### 🛒 Supermarket Billing System
+## 🛒 Supermarket Billing System
 
 ✔ React Frontend
 
@@ -113,19 +123,21 @@ Become a Java Backend Developer and build scalable backend applications.
 
 ---
 
-## 📊 GitHub Statistics
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284103-84d2c2b0-d04e-4ebd-a8f5-0e4f7d182d4d.gif"/>
+
+# 📊 GitHub Statistics
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Indhumathi-27&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Indhumathi-27&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Indhumathi-27&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Indhumathi-27&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+# 🔥 GitHub Streak
 
 <p align="center">
 
@@ -135,7 +147,7 @@ Become a Java Backend Developer and build scalable backend applications.
 
 ---
 
-## 📈 Contribution Graph
+# 📈 Contribution Graph
 
 <p align="center">
 
@@ -145,17 +157,19 @@ Become a Java Backend Developer and build scalable backend applications.
 
 ---
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Indhumathi-27&theme=tokyonight&no-frame=true&margin-w=10&row=1"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Indhumathi-27&theme=tokyonight&no-frame=true&margin-w=15&row=1"/>
 
 </p>
 
 ---
 
-## 🛠️ Tools
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284129-5b3bd816-4f85-4d4b-9a07-0f6b5fbba8f2.gif"/>
+
+# 🛠️ Tools
 
 <p align="center">
 
@@ -165,13 +179,13 @@ Become a Java Backend Developer and build scalable backend applications.
 
 ---
 
-## 📚 Currently Learning
+# 📚 Currently Learning
 
 ✨ Spring Boot
 
 ✨ Advanced Java
 
-✨ Data Structures & Algorithms
+✨ DSA
 
 ✨ REST APIs
 
@@ -179,7 +193,7 @@ Become a Java Backend Developer and build scalable backend applications.
 
 ---
 
-## 👀 Profile Views
+# 👀 Profile Views
 
 <p align="center">
 
@@ -189,7 +203,7 @@ Become a Java Backend Developer and build scalable backend applications.
 
 ---
 
-## 💬 Random Developer Quote
+# 💬 Random Developer Quote
 
 <p align="center">
 
@@ -199,7 +213,7 @@ Become a Java Backend Developer and build scalable backend applications.
 
 ---
 
-## 😂 Programming Joke
+# 😂 Programming Joke
 
 <p align="center">
 
@@ -209,16 +223,16 @@ Become a Java Backend Developer and build scalable backend applications.
 
 ---
 
-## ✨ Thank You for Visiting!
+# 💖 Thanks for Visiting
 
 <p align="center">
 
-⭐ If you like my work, don't forget to star my repositories.
+⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
 
 </p>
 
 <p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=gradient"/>
 
 </p>
